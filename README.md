@@ -106,16 +106,16 @@ java Main
 
 ### 1. Ketika Input Tidak Sesuai
 
-![Input di luar rentang](images/output-1.png)
+![Input di luar rentang](images/input-tidak-sesuai.png)
 
 ### 2. Ketika Input Tidak Sesuai dengan Format
 
-![Input bukan angka](images/output-2.png)
+![Input bukan angka](images/input-tidak-sesuai-format.png)
 
 ### 3. Ketika Kelembapan Kurang dari 40%
 
-![Kelembapan di bawah 40 persen](images/output-3.png)
+![Kelembapan di bawah 40 persen](images/input-dibawah-40.png)
 
 ### 4. Ketika Kelembapan Lebih dari 40%
 
-![Kelembapan di atas 40 persen](images/output-4.png)
+![Kelembapan di atas 40 persen](images/input-diatas-40.png)
