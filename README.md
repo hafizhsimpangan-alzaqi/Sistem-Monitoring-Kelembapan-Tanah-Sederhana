@@ -110,7 +110,7 @@ java Main
 
 ### 2. Ketika Input Tidak Sesuai dengan Format
 
-![Input bukan angka](images/input-tidak-sesuai-format.png)
+![Input bukan angka](images/tidak-sesuai-format.png)
 
 ### 3. Ketika Kelembapan Kurang dari 40%
 
