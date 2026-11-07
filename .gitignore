@@ -1,44 +1,15 @@
-### IntelliJ IDEA ###
-out/
-!**/src/main/**/out/
-!**/src/test/**/out/
-.kotlin
 
-### Eclipse ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
-
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-
-### VS Code ###
-.vscode/
-
-### Mac OS ###
-.DS_Store
-
-
-# Abaikan semua file dan folder di direktori utama
+# Abaikan semua file dan folder di root proyek
 /*
 
-# Izinkan folder source code
+# Izinkan source code Java
 !/src/
 
-# Izinkan README
+# Izinkan gambar dokumentasi
+!/images/
+
+# Izinkan dokumentasi
 !/README.md
 
-# Izinkan file .gitignore
+# Izinkan konfigurasi Git
 !/.gitignore
-

@@ -106,16 +106,16 @@ java Main
 
 ### 1. Ketika Input Tidak Sesuai
 
-![Input di luar rentang](../../Unduhan/PlantCare_README_Siap_GitHub/images/output-1.png)
+![Input di luar rentang](images/output-1.png)
 
 ### 2. Ketika Input Tidak Sesuai dengan Format
 
-![Input bukan angka](../../Unduhan/PlantCare_README_Siap_GitHub/images/output-2.png)
+![Input bukan angka](images/output-2.png)
 
 ### 3. Ketika Kelembapan Kurang dari 40%
 
-![Kelembapan di bawah 40 persen](../../Unduhan/PlantCare_README_Siap_GitHub/images/output-3.png)
+![Kelembapan di bawah 40 persen](images/output-3.png)
 
 ### 4. Ketika Kelembapan Lebih dari 40%
 
-![Kelembapan di atas 40 persen](../../Unduhan/PlantCare_README_Siap_GitHub/images/output-4.png)
+![Kelembapan di atas 40 persen](images/output-4.png)
